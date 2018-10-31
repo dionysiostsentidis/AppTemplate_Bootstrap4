@@ -1,5 +1,5 @@
 # App Template - Bootstrap 4
-A responsive landing page created with Bootstrap 4 and Sass.
+A responsive landing page built with Bootstrap 4 and Sass.
 
 ![alt text](master/src/images/mockup.jpg)
 
@@ -44,5 +44,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Links
-* [Live Preview](https://dionysiostsentidis.github.io/AppTemplate_Bootstrap4/) 
+* [Live Preview](https://dionweb.github.io/AppTemplate_Bootstrap4/) 
 * [DionWeb](http://www.dionweb.me/)
