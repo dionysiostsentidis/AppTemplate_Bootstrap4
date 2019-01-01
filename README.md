@@ -1,7 +1,6 @@
 # App Template - Bootstrap 4
 A responsive landing page built with Bootstrap 4 and Sass.
 
-![alt text](https://raw.githubusercontent.com/dionweb/AppTemplate_Bootstrap4/master/src/images/mockup.png?token=AmkViaMROG2E4cT77l-siZafu2TxgOVtks5b5ZC-wA%3D%3D)
 
 ## Clone
 ```
