@@ -48,12 +48,12 @@ ul {
   font-size: 35px;
   background: #f8f9fa;
   padding: 30px;
-  border-radius: 25px;
-  border: 1px solid #007bff; }
+  border-radius: 25px; }
 
 #about #topfeatures .card:hover {
   background-color: #007bff; }
-  #about #topfeatures .card:hover h3, #about #topfeatures .card:hover p {
+  #about #topfeatures .card:hover h3,
+  #about #topfeatures .card:hover p {
     color: #fff !important; }
 
 #about img {
@@ -113,7 +113,8 @@ ul {
   border: none;
   width: 70%; }
 
-#newsletter form button, #newsletter form input {
+#newsletter form button,
+#newsletter form input {
   min-height: 50px; }
 
 footer .fa {
@@ -123,13 +124,19 @@ footer .fa {
 footer .fa:hover {
   color: #007bff; }
 
-#newsletter, #testimonials {
+#newsletter,
+#testimonials {
   background: radial-gradient(circle, #007bff, #0074eb, #006cd8, #0565c4, #0e5db1); }
 
-#choose, #ios, #team {
+#choose,
+#ios,
+#team {
   background: linear-gradient(to top, #f8f9fa, #edeef0, #e1e4e6, #d6d9dd, #cbcfd3); }
 
-#topfeatures, #android, #contact, #pricing {
+#topfeatures,
+#android,
+#contact,
+#pricing {
   background: linear-gradient(to bottom, #f8f9fa, #edeef0, #e1e4e6, #d6d9dd, #cbcfd3); }
 
 #footer {
@@ -140,12 +147,14 @@ footer .fa:hover {
     text-align: center; }
   #about #choose img {
     display: none; }
-  #about #android img, #about #ios img {
+  #about #android img,
+  #about #ios img {
     height: 250px; }
   #team .row {
     padding: 10px; }
   #team .col-md-4 {
     margin-bottom: 50px; }
-  #contact, #team {
+  #contact,
+  #team {
     padding-top: 0 !important;
     padding-bottom: 0 !important; } }
